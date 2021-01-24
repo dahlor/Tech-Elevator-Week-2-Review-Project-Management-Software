@@ -10,9 +10,6 @@ public class Project {
 	private String startDate;
 	private String dueDate;
 	private List<Employee> teamMembers;
-
-	
-	
 	
 	// The Ron Popeil Memorial Section
 	public String getName() {

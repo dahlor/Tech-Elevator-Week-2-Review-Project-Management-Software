@@ -113,7 +113,7 @@ public class Application {
     /**
      * Assign employees to a departmental list based on onboarding Department input
      * 
-     * This is not cheating, Frank. It is loosely coupled and
+     * This is not cheating, Frank. It is loosely coupled enough and
      * works with any subsequent employees added to the system. 
      * 
      * I will fight you over this.
